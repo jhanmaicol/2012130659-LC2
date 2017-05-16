@@ -1,0 +1,4 @@
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-ENTStore.Entities\bin\Debug\2012130659-ENTStore.Entities.dll
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-ENTStore.Entities\bin\Debug\2012130659-ENTStore.Entities.pdb
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-ENTStore.Entities\obj\Debug\2012130659-ENTStore.Entities.dll
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-ENTStore.Entities\obj\Debug\2012130659-ENTStore.Entities.pdb

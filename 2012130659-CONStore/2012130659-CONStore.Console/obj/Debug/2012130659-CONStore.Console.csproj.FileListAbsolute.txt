@@ -1,0 +1,15 @@
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-CONStore.Console\bin\Debug\2012130659-CONStore.Console.exe.config
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-CONStore.Console\bin\Debug\2012130659-CONStore.Console.exe
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-CONStore.Console\bin\Debug\2012130659-CONStore.Console.pdb
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-CONStore.Console\obj\Debug\2012130659-CONStore.Console.exe
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-CONStore.Console\obj\Debug\2012130659-CONStore.Console.pdb
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-CONStore.Console\bin\Debug\2012130659-ENTStore.Entities.dll
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-CONStore.Console\bin\Debug\2012130659-PERStore.Persistence.dll
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-CONStore.Console\bin\Debug\EntityFramework.dll
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-CONStore.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-CONStore.Console\bin\Debug\2012130659-ENTStore.Entities.pdb
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-CONStore.Console\bin\Debug\2012130659-PERStore.Persistence.pdb
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-CONStore.Console\bin\Debug\2012130659-PERStore.Persistence.dll.config
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-CONStore.Console\bin\Debug\EntityFramework.xml
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-CONStore.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\2012130659-LC2\2012130659-CONStore\2012130659-CONStore.Console\obj\Debug\2012130659-CONStore.Console.csprojResolveAssemblyReference.cache
