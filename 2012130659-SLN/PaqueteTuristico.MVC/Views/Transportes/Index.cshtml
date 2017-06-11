@@ -1,0 +1,64 @@
+﻿@model IEnumerable<PaquetesTuristicos.Entities.Transporte>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Transporte</h2>
+
+<p>
+    @Html.ActionLink("Nuevo Transporte", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Hora)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Direccion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DescripcionTransporte)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TipoTransporte)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoriaTransporte)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fecha)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Hora)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Direccion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DescripcionTransporte)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipoTransporte)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CategoriaTransporte)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.ServicioTuristicoId }) |
+            @Html.ActionLink("Detalles", "Details", new { id=item.ServicioTuristicoId }) |
+            @Html.ActionLink("Eliminar", "Delete", new { id=item.ServicioTuristicoId })
+        </td>
+    </tr>
+}
+
+</table>

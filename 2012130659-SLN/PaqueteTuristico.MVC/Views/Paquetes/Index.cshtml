@@ -1,0 +1,28 @@
+﻿@model IEnumerable<PaquetesTuristicos.Entities.Paquete>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Paquetes</h2>
+
+<p>
+    @Html.ActionLink("Nuevos Paquetes", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.PaqueteId }) |
+            @Html.ActionLink("Detalles", "Details", new { id=item.PaqueteId }) |
+            @Html.ActionLink("Elimianar", "Delete", new { id=item.PaqueteId })
+        </td>
+    </tr>
+}
+
+</table>

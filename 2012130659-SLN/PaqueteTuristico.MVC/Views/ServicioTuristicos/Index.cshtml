@@ -1,0 +1,46 @@
+﻿@model IEnumerable<PaquetesTuristicos.Entities.ServicioTuristico>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Servicios Turisticos</h2>
+
+<p>
+    @Html.ActionLink("Nuevos Servicios Turisticos", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Hora)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Direccion)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fecha)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Hora)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Direccion)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.ServicioTuristicoId }) |
+            @Html.ActionLink("Detalles", "Details", new { id=item.ServicioTuristicoId }) |
+            @Html.ActionLink("Eliminar", "Delete", new { id=item.ServicioTuristicoId })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,5 @@
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\PaquetesTuristicos.Entities\obj\Debug\2012130659-ENT.csprojResolveAssemblyReference.cache
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\JHANMAICOL\Documents\Visual Studio 2017\Projects\2012130659-SLN\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.pdb
